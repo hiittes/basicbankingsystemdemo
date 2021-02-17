@@ -27,7 +27,7 @@
 			<tr>
   				<th>Transaction ID</th>
   				<th>From Account</th>
-  				<th>From Account</th>
+  				<th>To Account</th>
   				<th>Amount</th>
   				<th>Date & Time</th>
   			</tr>
